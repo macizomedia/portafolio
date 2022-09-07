@@ -1,0 +1,15 @@
+{
+  "name": "mmcs-portafolio",
+  "version": "1.0.0",
+  "description": "Blas Oronoz portafolio website",
+  "main": "main.js",
+  "repository": "https://github.com/macizomedia/portafolio.git",
+  "author": "Blas Oronoz <macizomedia@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "three": "^0.144.0"
+  }
+}
